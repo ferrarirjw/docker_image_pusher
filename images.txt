@@ -7,3 +7,4 @@ xhofe/alist:latest
 youshandefeiyang/allinone
 yuexuangu/allinone_format
 herberthe0229/iptv-sources
+doubebly/doubu-itv
